@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there 👋, I'm Knoah Lucas here!</h1>
+<h1 align="center">Hey there 👋, Knoah Lucas here!</h1>
 <h3 align="center">A passionate Puerto Rican software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cottoknoah&label=Profile%20views&color=0e75b6&style=flat" alt="cottoknoah" /> </p>
@@ -47,4 +47,3 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cottoknoah&show_icons=true&locale=en&layout=compact" alt="cottoknoah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cottoknoah&" alt="cottoknoah" /></p>
-
