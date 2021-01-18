@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java FX**
 
-- 🤝 I’m looking for help with [understanding Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15401006#announcements)
+- 🤝 I’m looking for help with [understanding Java further](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15401006#announcements)
 
 - 👨‍💻 All of my projects are available at [https://github.com/cottoknoah](https://github.com/cottoknoah)
 
