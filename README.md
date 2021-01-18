@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there 👋, Knoah Lucas here!</h1>
-<h3 align="center">A passionate Puerto Rican software developer</h3>
+<h1 align="center">Hey there 👋 Knoah Cotto here!</h1>
+<h3 align="center">A passionate Puerto Rican ✨ Software Developer ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cottoknoah&label=Profile%20views&color=0e75b6&style=flat" alt="cottoknoah" /> </p>
 
 - 🔭 I’m currently working on **Designing a Small JavaScript Game**
+
+- 🌱 I’m currently learning **Java FX**
 
 - 🤝 I’m looking for help with [understanding Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15401006#announcements)
 
@@ -28,11 +30,11 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Sanitizing Data and Prepared Statements**
 
-- 📫 How to reach me **cotto.knoah@gmail.com**
+- 📫 How to reach me **cotto.knoah@gmail.com 💻**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/cottoknoah/](https://www.linkedin.com/in/cottoknoah/)
 
-- ⚡ Fun fact **I whistle Christmas music.. all year long. 😅🙉**
+- ⚡ Fun fact **I whistle Christmas music.. all year long. 😅🎄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
