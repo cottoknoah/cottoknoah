@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Sanitizing Data and Prepared Statements**
 
-- 📫 Best way to reach me **cotto.knoah@gmail.com 💻 **
+- 📫 Best way to reach me **cotto.knoah@gmail.com 💻**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/cottoknoah/](https://www.linkedin.com/in/cottoknoah/)
 
