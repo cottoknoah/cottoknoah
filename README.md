@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cottoknoah&label=Profile%20views&color=0e75b6&style=flat" alt="cottoknoah" /> </p>
 
-- 🔭 I’m currently working on **Designing a Fun JavaScript Game**
+- 🔭 I’m currently working on **Designing a mini JavaScript Game**
 
 - 🌱 I’m currently learning **Java FX**
 
