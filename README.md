@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/cottoknoah](https://github.com/cottoknoah)
 
-- 💬 Ask me about **Sanitizing Data and Prepared Statements**
+- 💬 Ask me about **Sanitizing Data & Prepared Statements**
 
 - 📫 Best way to reach me **cotto.knoah@gmail.com 💻**
 
