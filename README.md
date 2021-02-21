@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/cottoknoah/](https://www.linkedin.com/in/cottoknoah/)
 
-- ⚡ Fun fact **I whistle Christmas music... ALL year long. 😅🎄**
+- ⚡ Fun fact **I whistle Christmas music... ALL year long! 😅🎄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
