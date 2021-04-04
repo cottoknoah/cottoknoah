@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I whistle Christmas music... ALL year long! 😅🎄**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cottoknoah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cottoknoah" height="30" width="40" /></a>
 <a href="https://instagram.com/kaecotto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kaecotto" height="30" width="40" /></a>
