@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Designing a Calculator with HTML/CSS**
 
-- 🌱 I’m currently wokring on **Java**
+- 🌱 I’m currently wokring on **SDET training**
 
 - 🤝 I’m looking for assistance with [Java FX ](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15401006#announcements)
 
