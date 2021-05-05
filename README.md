@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cottoknoah&label=Profile%20views&color=0e75b6&style=flat" alt="cottoknoah" /> </p>
 
-- 🔭 I’m currently working on **Designing a Calculator with HTML/CSS**
+- 🔭 I’m currently working on **QA Training for the next two months**
 
-- 🌱 I’m currently wokring on **SDET training**
+- 🌱 I’m currently wokring on **SDET**
 
 - 🤝 I’m looking for assistance with [Java FX ](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15401006#announcements)
 
