@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://instagram.com/kaecotto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kaecotto" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/knoah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="knoah" height="30" width="40" /></a>
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
