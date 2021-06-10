@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cottoknoah&label=Profile%20views&color=0e75b6&style=flat" alt="cottoknoah" /> </p>
 
-- 🔭 I’m currently working on **QA training for the next two months**
+- 🔭 I’m currently working on **QA training for the next 2 weeks**
 
 - 🌱 I’m currently working on **SDET**
 
