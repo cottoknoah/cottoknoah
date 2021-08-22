@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on *Python Programming Fundamentals at Infosys Limited*
 
-- 🌱 I’m currently working on **Python 3**
+- 🌱 I’m currently working on **Selenium**
 
 - 🤝 I’m looking for assistance with [Java FX ](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15401006#announcements)
 
