@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cottoknoah&label=Profile%20views&color=0e75b6&style=flat" alt="cottoknoah" /> </p>
 
-- 🔭 I’m currently working on *Testing Automation at Infosys Limited*
+- 🔭 I’m currently working on *SDET at Infosys Limited*
 
 - 🌱 I’m currently working on **Selenium & Testing Automation**
 
-- 🤝 I’m looking for assistance with [Java FX ](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15401006#announcements)
+- 🤝 I’m looking for assistance with [AWS Cloud Certification](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15401006#announcements)
 
 - 👨‍💻 All of my projects are available at [https://github.com/cottoknoah](https://github.com/cottoknoah)
 
-- 💬 Ask me about **Sanitizing Data or Prepared Statements**
+- 💬 Ask me about **Java & OOP**
 
 - 📫 Best way to reach me **cotto.knoah@gmail.com 💻**
 
