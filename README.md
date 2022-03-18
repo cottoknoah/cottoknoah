@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there 👋 Knoah here!</h1>
 <h3 align="center">A passionate Puerto Rican ✨ Software Developer ✨ </h3>
 
-- 🔭 I’m currently working on *SDET at Infosys Limited*
+- 🔭 I’m currently working at *Infosys Limited*
 
-- 🌱 I’m currently working on **Selenium & Testing Automation**
+- 🌱 I’m currently working on **SQL Scripting**
 
 - 🤝 I’m looking for assistance with [AWS Cloud Certification](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15401006#announcements)
 
 - 👨‍💻 All of my projects are available at [https://github.com/cottoknoah](https://github.com/cottoknoah)
 
-- 💬 Ask me about **Java & OOP**
+- 💬 Ask me about **Agile Methodologies**
 
 - 📫 Best way to reach me **cotto.knoah@gmail.com 💻**
 
