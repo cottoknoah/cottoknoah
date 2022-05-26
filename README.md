@@ -9,14 +9,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there 👋 Knoah here!</h1>
-<h3 align="center">A passionate Puerto Rican ✨ Software Developer ✨ </h3>
+<h1 align="center">Hi there 👋 Knoah here!</h1>
+<h3 align="center">A passionate Puerto Rican ✨ Developer ✨ </h3>
 
-- 🔭 I’m currently working at *Infosys Limited*
+- 🔭 I’m currently working at *[Accruent](https://www.accruent.com/)*
 
 - 🌱 I’m currently working on **SQL Scripting**
 
@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [https://www.linkedin.com/in/cottoknoah/](https://www.linkedin.com/in/cottoknoah/)
 
 - ⚡ Fun fact **I tend whistle Christmas music... ALL year long! 😅🎄**
+
+- 😄 Pronouns: he/him
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
