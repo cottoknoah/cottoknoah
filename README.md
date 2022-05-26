@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
+- 📄 Know about my experiences [https://www.linkedin.com/in/cottoknoah/](https://www.linkedin.com/in/cottoknoah/)
+- 📫 Best way to reach me **cotto.knoah@gmail.com 💻**
+- 📫 Best way to reach me ** [https://www.linkedin.com/in/cottoknoah/](https://www.linkedin.com/in/cottoknoah/) 💻**
 -->
 
 <h1 align="center">Hi there 👋 Knoah here!</h1>
@@ -26,9 +29,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Agile Methodologies**
 
-- 📫 Best way to reach me **cotto.knoah@gmail.com 💻**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/cottoknoah/](https://www.linkedin.com/in/cottoknoah/)
+- 📫 Best way to reach me ** [https://www.linkedin.com/in/cottoknoah/](https://www.linkedin.com/in/cottoknoah/) 💻**
 
 - ⚡ Fun fact **I tend whistle Christmas music... ALL year long! 😅🎄**
 
