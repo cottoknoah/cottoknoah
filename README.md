@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 Best way to reach me ** [https://www.linkedin.com/in/cottoknoah/](https://www.linkedin.com/in/cottoknoah/) 💻**
 
-- ⚡ Fun fact **I tend whistle Christmas music... ALL year long! 😅🎄**
+- ⚡ Fun fact **I tend to whistle Christmas music... ALL year long! 😅🎄**
 
 - 😄 Pronouns: he/him
 
