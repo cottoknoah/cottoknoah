@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/cottoknoah](https://github.com/cottoknoah)
 
-- 💬 Ask me about **Agile Methodologies**
+- 💬 Ask me about **SQL Queries**
 
 - 📫 Best way to reach me ** [https://www.linkedin.com/in/cottoknoah/](https://www.linkedin.com/in/cottoknoah/) 💻**
 
