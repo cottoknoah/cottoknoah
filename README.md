@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋 Knoah here!</h1>
 <h3 align="center">A passionate Puerto Rican ✨ Developer ✨ </h3>
 
-- 🔭 I’m currently working at *[Accruent](https://www.accruent.com/)*
+- 🔭 I’m currently working at *being a more positive light in the world*
 
-- 🌱 I’m currently working on **EMS Booking Software**
+- 🌱 I’m currently working on **growing my IT skills**
 
 - 🤝 I’m looking for assistance with [AWS Cloud Certification](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15401006#announcements)
 
