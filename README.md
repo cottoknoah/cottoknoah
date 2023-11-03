@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <p align="left">
 <!-- <a href="https://linkedin.com/in/cottoknoah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cottoknoah" height="30" width="40" /></a> -->
 <!-- <a href="https://linkedin.com/in/cottoknoah"> -->
-  <img align="left" alt="Knoah Cotto's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<!--   <img align="left" alt="Knoah Cotto's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
+<!-- </a> -->
 <a href="https://instagram.com/knoah.knows" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="knoahknows" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/knoah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="knoah" height="30" width="40" /></a>
 </p>
